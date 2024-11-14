@@ -1,0 +1,2 @@
+# MinPol
+Polarizacion con MiniZinz
